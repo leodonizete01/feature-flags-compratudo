@@ -1,4 +1,5 @@
 # feature-flags-compratudo
+
 flag_cupom_desconto = True
 flag_pagamento_pix = False
 
